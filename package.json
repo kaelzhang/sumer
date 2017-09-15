@@ -1,7 +1,7 @@
 {
   "name": "sumer",
-  "version": "1.0.0",
-  "description": "sumer",
+  "version": "0.0.2",
+  "description": "Sumer is bash AST parser written in JavaScript.",
   "main": "lib/index.js",
   "module": "src/index.js",
   "scripts": {

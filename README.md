@@ -31,6 +31,8 @@ $ npm install sumer
 
 ```js
 import sumer from 'sumer'
+
+const AST = sumer.parse('export PARSER=sumer', options)
 ```
 
 ## License
